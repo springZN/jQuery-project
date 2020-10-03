@@ -1,2 +1,1 @@
-# jQuery-project
-一个用jQuery写的小项目
+# 一个用jQuery写的小项目
